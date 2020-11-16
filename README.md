@@ -25,6 +25,8 @@ Additional notes are as follows:
 
 <ul>
   <li>missing values are different from zero counts (e.g., if a roster does not report sex or gender, is_male and is_female will be null; if a roster reports sex and gender, but there are no identifiably "male" or "female" genders for a given date, the counts of male and female will be zero)</li>
+  <li>traffic in a CSV title refers to the presence of counts grouped by admissions and releases, in addition to total daily counts per roster-date</li>
+  <li>recidivism in a CSV title refers to the presence of data on recidivism by group, in addition to total daily counts by group per roster-date</li>
   <li>charge class refers to classification as felony, misdemeanor, or neither</li>
   <li>charge type refers to specific subsets of charges (e.g., failure to appear charges, marijuana charges, etc.)</li>
 </ul>
