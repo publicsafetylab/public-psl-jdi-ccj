@@ -20,3 +20,11 @@ Data appears in individual CSV files subsetted by feature types. For example, of
   <li>bjs_juris_id (the Bureau of Justice Statistics identifier for the corresponding facility or facilities</li>
   <li>missing_date_ind (an indicator for facility-days for which data was not scraped; no gaps of 7+ days exist per facility)</li>
 </ul>
+
+Additional notes are as follows:
+
+<ul>
+  <li>missing values are different from zero counts (e.g., if a roster does not report sex or gender, is_male and is_female will be null; if a roster reports sex and gender, but there are no identifiably "male" or "female" genders for a given date, the counts of male and female will be zero)</li>
+  <li>charge class refers to classification as felony, misdemeanor, or neither</li>
+  <li>charge type refers to specific subsets of charges (e.g., failure to appear charges, marijuana charges, etc.)</li>
+</ul>
