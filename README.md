@@ -7,4 +7,14 @@ This repository makes publicly available the data used for an updated Impact Rep
 
 <br>
 
-#### Features
+### Features
+
+Data appears in individual CSV files subsetted by feature types. For example, of the 325 jail facilities available in this set, different subsets report detainee age vs. detainee gender.
+
+All CSVs contain the following fields:
+
+<ul>
+  <li>date</li>
+  <li>state (abbreviation)</li>
+  <li>county_identifier (these may not map perfectly to county names because multiple rosters may exist within the county, e.g., WA-Thurston for the Thurston Co. Sheriffs Office Corr. Fac. and WA-Thurson_Olympia for Olympia City Jail)</li>
+</ul>
