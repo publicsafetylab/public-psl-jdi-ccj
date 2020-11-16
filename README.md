@@ -18,15 +18,15 @@ Data appears in individual CSV files subsetted by feature types. All CSVs contai
   <li>est_pop_2019 (estimated county population from the 2019 American Community Survey)</li>
   <li>primary_fips (the county FIPS identifier associated with the primary jurisdiction of the roster)</li>
   <li>bjs_juris_id (the Bureau of Justice Statistics identifier for the corresponding facility or facilities)</li>
-  <li>missing_date_ind (an indicator for facility-days for which data were not scraped; no data are reported for rosters with gaps of 7+ days)</li>
+  <li>missing_date_ind (an indicator for roster/days for which data were not scraped; no data are reported for rosters with gaps of 7+ days in data collection)</li>
 </ul>
 
 Additional notes:
 
 <ul>
   <li>missing values are different from zero counts (e.g., if a roster does not report a feature, that feature will report null values; if a roster reports a feature, but there are no records of that feature for a given date, the feature will report zero counts)</li>
-  <li>"traffic" in a CSV title refers to the presence of counts grouped by bookings and releases, in addition to total daily counts per roster-date</li>
-  <li>"recidivism" in a CSV title refers to the presence of data on rebooking by group, in addition to total daily counts by group per roster-date</li>
+  <li>"traffic" in a CSV title refers to the presence of counts grouped by bookings and releases, in addition to total daily counts per roster/day</li>
+  <li>"recidivism" in a CSV title refers to the presence of data on rebooking by group, in addition to total daily counts by group per roster/day</li>
   <li>charge class refers to classification as felony, misdemeanor, or other</li>
   <li>charge type refers to specific subsets of charges (e.g., failure to appear, marijuana posession, etc.)</li>
   </ul>
