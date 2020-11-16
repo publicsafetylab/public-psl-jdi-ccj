@@ -17,7 +17,7 @@ Data appears in individual CSV files subsetted by feature types. All CSVs contai
   <li>jail_id (a unique numeric identifier for each jail roster for internal use)</li>
   <li>est_pop_2019 (estimated county population from the 2019 American Community Survey)</li>
   <li>primary_fips (the county FIPS identifier associated with the primary jurisdiction of the roster)</li>
-  <li>bjs_juris_id (the Bureau of Justice Statistics identifier for the corresponding facility or facilities</li>
+  <li>bjs_juris_id (the Bureau of Justice Statistics identifier for the corresponding facility or facilities)</li>
   <li>missing_date_ind (an indicator for facility-days for which data were not scraped; no data are reported for rosters with gaps of 7+ days)</li>
 </ul>
 
