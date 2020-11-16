@@ -5,8 +5,6 @@ In September 2020 we reported to the National Commission on COVID-19 and Crimina
 
 This repository makes publicly available the data used for an updated Impact Report released in November 2020 (daily aggregated jail data collected between January 1, 2020 and October 22, 2020).
 
-<br>
-
 ### Features
 
 Data appears in individual CSV files subsetted by feature types. For example, of the 325 jail facilities available in this set, different subsets report detainee age vs. detainee gender. All CSVs contain the following fields:
