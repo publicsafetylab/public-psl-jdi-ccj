@@ -29,4 +29,9 @@ Additional notes:
   <li>"recidivism" in a CSV title refers to the presence of data on rebooking by group, in addition to total daily counts by group per roster-date</li>
   <li>charge class refers to classification as felony, misdemeanor, or other</li>
   <li>charge type refers to specific subsets of charges (e.g., failure to appear, marijuana posession, etc.)</li>
-</ul>
+  </ul>
+  
+ ### Contact Information
+
+Please contact us at publicsafetylab@nyu.edu with questions or comments.
+
