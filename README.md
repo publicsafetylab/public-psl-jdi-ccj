@@ -10,8 +10,8 @@ This repository makes publicly available the data used for an updated report rel
 Data appears in individual CSV files subsetted by feature types. All CSVs contain the following fields:
 
 <ul>
-  <li>`date`</li>
-  <li>`state` (two-character abbreviation)</li>
+  <li>date</li>
+  <li>state (two-character abbreviation)</li>
   <li>county_identifier (more precisely, state_county_roster_identifier; multiple jail rosters that exist within a single county are reported as e.g., WA-Thurston for the Thurston County Sheriff's Office Correctional Facility and WA-Thurston_Olympia for the Olympia City Jail)</li>
   <li>facility_name (multiple facilities may be reported by a single jail roster; when this occurs, facility names are separated by semicolons)</li>
   <li>jail_id (a unique numeric identifier for each jail roster for internal use)</li>
