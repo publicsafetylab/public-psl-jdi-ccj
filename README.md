@@ -28,7 +28,7 @@ Additional notes:
   <li>"traffic" in a CSV title refers to the presence of counts grouped by bookings and releases, in addition to total daily counts per roster/day</li>
   <li>"recidivism" in a CSV title refers to the presence of data on rebooking by group, in addition to total daily counts by group per roster/day</li>
   <li>charge class refers to classification as felony, misdemeanor, or other</li>
-  <li>charge type refers to specific subsets of charges (e.g., failure to appear, marijuana posession, etc.)</li>
+  <li>charge type refers to specific subsets of charges (e.g., failure to appear, cannabis posession, etc.)</li>
   </ul>
   
  ### Contact Information
